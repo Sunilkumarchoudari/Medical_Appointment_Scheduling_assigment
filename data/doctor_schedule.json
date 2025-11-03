@@ -1,0 +1,20 @@
+{
+  "doctor_name": "Dr. Sarah Johnson",
+  "specialty": "Internal Medicine",
+  "working_hours": {
+    "monday": {"start": "09:00", "end": "17:00"},
+    "tuesday": {"start": "09:00", "end": "17:00"},
+    "wednesday": {"start": "09:00", "end": "17:00"},
+    "thursday": {"start": "09:00", "end": "17:00"},
+    "friday": {"start": "09:00", "end": "17:00"},
+    "saturday": {"closed": true},
+    "sunday": {"closed": true}
+  },
+  "timezone": "America/New_York",
+  "lunch_break": {
+    "start": "12:30",
+    "end": "13:30"
+  },
+  "existing_appointments": []
+}
+

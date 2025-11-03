@@ -1,0 +1,99 @@
+{
+  "clinic_details": {
+    "name": "HealthCare Plus Clinic",
+    "location": "123 Medical Center Drive, Suite 200, Healthcare City, NY 10001",
+    "directions": "Located on the second floor of the Medical Center building. Take elevator from main lobby.",
+    "parking": "Free parking available in the adjacent parking garage. Validation available at reception.",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+1-555-123-4567",
+    "email": "info@healthcareplus.com"
+  },
+  "insurance_billing": {
+    "accepted_providers": [
+      "Blue Cross Blue Shield",
+      "Aetna",
+      "Cigna",
+      "UnitedHealthcare",
+      "Medicare",
+      "Medicaid",
+      "Humana",
+      "Anthem"
+    ],
+    "payment_methods": [
+      "Credit Cards (Visa, MasterCard, American Express)",
+      "Debit Cards",
+      "Cash",
+      "Check",
+      "HSA/FSA accounts"
+    ],
+    "billing_policies": [
+      "Payment is due at time of service for copays and deductibles",
+      "We submit claims directly to your insurance provider",
+      "Self-pay patients receive a 20% discount",
+      "Payment plans available for large balances",
+      "Questions about billing? Call (555) 123-4567 ext. 2"
+    ]
+  },
+  "visit_preparation": {
+    "required_documents": [
+      "Photo ID (driver's license or passport)",
+      "Insurance card",
+      "List of current medications",
+      "Medical records from previous providers (if applicable)"
+    ],
+    "first_visit_procedures": [
+      "Arrive 15 minutes early for registration",
+      "Complete new patient forms (available online or at office)",
+      "Bring insurance card and photo ID",
+      "Provide complete medical history",
+      "Allow 60-90 minutes for first visit"
+    ],
+    "what_to_bring": [
+      "Insurance card",
+      "Photo ID",
+      "List of medications and dosages",
+      "Any relevant medical records or test results",
+      "List of questions or concerns",
+      "Payment method for copay or self-pay"
+    ]
+  },
+  "policies": {
+    "cancellation_policy": "We require 24 hours notice for cancellations. Late cancellations or no-shows may incur a $50 fee.",
+    "late_arrival_policy": "Please arrive on time. Late arrivals may result in rescheduling or shortened appointment time.",
+    "covid19_protocols": [
+      "Masks are optional but recommended",
+      "If you have COVID-19 symptoms, please reschedule",
+      "Sanitization stations available throughout office",
+      "Enhanced cleaning protocols in place"
+    ],
+    "rescheduling": "Reschedule appointments at least 24 hours in advance by calling (555) 123-4567 or using our online portal.",
+    "waitlist": "We don't maintain a formal waitlist, but please call for last-minute cancellation availability."
+  },
+  "appointment_types": {
+    "consultation": {
+      "duration": "30 minutes",
+      "description": "General consultation for routine concerns, checkups, or new symptoms"
+    },
+    "followup": {
+      "duration": "15 minutes",
+      "description": "Follow-up visit to review test results or check progress"
+    },
+    "physical": {
+      "duration": "45 minutes",
+      "description": "Comprehensive physical examination and health screening"
+    },
+    "specialist": {
+      "duration": "60 minutes",
+      "description": "Extended consultation with specialist for complex conditions"
+    }
+  }
+}
+
